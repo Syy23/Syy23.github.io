@@ -82,11 +82,11 @@ excerpt_length: 50
 navbar-col: "#99CCCC"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
-page-col: "#FFFFFF"
+page-col: "#FFFFF7"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
+footer-col: "#99CCCC"
+footer-text-col: "#666666"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
