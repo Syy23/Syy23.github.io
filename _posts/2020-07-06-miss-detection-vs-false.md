@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Miss Detection vs. False Alarm: Adversarial Learning for Small Object Segmentation in Infrared Images
 subtitle: Adversarial Learning
 cover-img: /assets/img/path.jpg
