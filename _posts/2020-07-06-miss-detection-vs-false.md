@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Talk about the blog
-subtitle: The reason I blogging
+title: Miss Detection vs. False Alarm Adversarial Learning for Small Object Segmentation in Infrared Images
+subtitle: Adversarial Learning
 cover-img: /assets/img/path.jpg
-tag: [blog, reason]
-
+tag: [infrared, cGAN, ISOS]
 ---
+
+
 
 ## Brief Review
 
@@ -17,7 +18,7 @@ A key challenge of small object segmentation is to balane miss detection (MD) an
 
 ## Implementation Method
 
-![IMG_D1611FD2005D-1](/Users/suyanyuan/Downloads/IMG_D1611FD2005D-1.jpeg)
+![IMG_D1611FD2005D-1](../assert/img/IMG_D1611FD2005D-1.jpeg)
 
 ### Model
 
