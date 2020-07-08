@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Miss Detection vs. False Alarm Adversarial Learning for Small Object Segmentation in Infrared Images
-subtitle: Adversarial Learning
+title: Talk about the blog
+subtitle: The reason I blogging
 cover-img: /assets/img/path.jpg
-tag: [infrared, cGAN, ISOS]
+tag: [blog, reason]
+
 ---
-
-
 
 ## Brief Review
 
