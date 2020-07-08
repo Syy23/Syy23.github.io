@@ -6,6 +6,8 @@ cover-img: /assets/img/path.jpg
 tag: [infrared, cGAN, ISOS]
 ---
 
+
+
 ## Brief Review
 
 "Miss Detection vs. False Alarm: Adversarial Learning for Small Object Segmentation in Infrared Images" is the paper on infrared small object segmentation (ISOS). Different from small object segmentation on visible image, infrared radiation will decay with distance, making the objects appear to be extremely dim. This makes this problem much difficult.
