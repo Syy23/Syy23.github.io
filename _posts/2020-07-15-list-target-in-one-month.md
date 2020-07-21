@@ -11,7 +11,7 @@ After having discussion with my tutor, I know exactly what I'm going to do. As D
 ### Targets
 
 - Read some surveys about face detection. This is the method to understand how face detection develop and how far has it come. And finally choose some paper to read carefully.  It will takes about one week.(7days).
-
-- The second week is about the traditional methods of face detection. After the first stage, I will write down the papers I will read.(7days)
+- ~~The second week is about the traditional methods of face detection. After the first stage, I will write down the papers I will read.(7days)~~
+- Learn a method finding the approperiate model
 - Last two weeks is to find out how ML work on face detection and what kinds of model they are using now.(14days)
 
